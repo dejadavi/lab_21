@@ -1,0 +1,24 @@
+button{
+
+    background-color: black;
+    color: white;
+}
+
+body{
+
+    background-color: black;
+    color: white;
+     font: arial;
+}
+
+h1{
+    color: white;
+    font: arial;
+}
+
+#output{
+font-family: 'Lato', sans-serif;
+    color: white;
+    padding: 8%;
+     font: arial;
+}
